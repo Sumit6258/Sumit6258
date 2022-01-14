@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sumit Suman</h1>
-<h3 align="center">A 2nd Year CS Undergraduate</h3>
+<h3 align="center">2nd Year CS Undergraduate 💙👨🏻‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit6258&label=Profile%20views&color=ed0ca6&style=plastic" alt="sumit6258" /> </p>
 
