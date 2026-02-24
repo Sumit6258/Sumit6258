@@ -10,11 +10,11 @@
 
 <!-- =================== Badges =================== -->
 <div align="center">
-  <a href="https://aditishinde.website/" target="_blank">
+  <a href="https://sumitsuman.website/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%239bfef7?style=for-the-badge" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/aditirshinde/" target="_blank">
+  <a href="https://www.linkedin.com/in/thesumitsuman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%239bfef7?style=for-the-badge&logo=linkedin&logoColor=gray" alt="LinkedIn" />
   </a>
   &nbsp;
