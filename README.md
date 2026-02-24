@@ -1,72 +1,110 @@
-<h1 align="center">Hi there, I'm Sumit Suman</h1>
-<h3 align="center">Computer Science and Engineering Graduate || Tech enthusiast || Software Engineer 💙👨🏻‍💻</h3>
+<!-- =================== Top Banner =================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6e40c9,50:a855f7,100:06b6d4&text=Hey%2C+I%27m+Sumit+%5E_%5E&fontColor=e2e8f0&fontSize=40&fontAlignY=38&desc=Full+Stack+Dev+%7C+AI%2FML+Explorer&descColor=a5f3fc&descSize=18&descAlignY=58" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit6258&label=Profile%20views&color=ed0ca6&style=plastic" alt="sumit6258" /> </p>
+<!-- =================== Typing SVG =================== -->
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a7aabe&background=C9FF6800&multiline=true&random=false&width=437&height=55&lines=Computer+Science+Engineer%7CExploring+Full+Stack+Development+and+AI%2FML+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF;+Full+Stack+Dev.+and+AI%2FML+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" alt="Typing SVG" />
+</a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit6258" alt="sumit6258" /></a> </p>
+<!-- =================== Badges =================== -->
+<div align="center">
+  <a href="https://aditishinde.website/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%239bfef7?style=for-the-badge" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/aditirshinde/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%239bfef7?style=for-the-badge&logo=linkedin&logoColor=gray" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Sumit6258&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
-- My portfolio website [https://sumit6258.github.io/sumitsuman.io/](https://sumit6258.github.io/sumitsuman.io/)
+<hr style="border: 1px solid #ccc; margin: 20px 0;">
 
+<!-- =================== Code Art Banner =================== -->
+<div align="center">
 
-<h3 align="left">My Leetcode stats:</h3>
+```
+╔══════════════════════════════════════════════════════════╗
+║  > whoami                                                ║
+║  ┌─────────────────────────────────────────────────┐    ║
+║  │  Sumit — Full Stack Developer & AI/ML Explorer  │    ║
+║  └─────────────────────────────────────────────────┘    ║
+║  > skills --list                                         ║
+║  [+] Full Stack Development                             ║
+║  [+] Artificial Intelligence & Machine Learning         ║
+║  [+] Problem Solving & System Design                    ║
+║  > status                                                ║
+║  ↳ Always learning. Always building. Always shipping.   ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sumit6258?theme=dark&font=ABeeZee&ext=heatmap)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thesumitsuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesumitsuman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8241129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8241129" height="30" width="40" /></a>
-<a href="https://kaggle.com/thesumitsuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="thesumitsuman" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sumitsuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumitsuman" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sumitsuman6258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sumitsuman6258" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sumitsuman6258/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sumitsuman6258/profile" height="30" width="40" /></a>
-</p>
+<!-- =================== GitHub Summary Cards =================== -->
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumit6258&theme=radical" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumit6258&theme=radical" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumit6258&theme=radical" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumit6258&theme=radical" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumit6258&theme=radical&utcOffset=8" alt="Productive Time" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" /> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-            height="40" /> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="40" height="40" /> </a></p>
+<!-- =================== Streak + Penguin =================== -->
+<div style="text-align: left; margin-bottom: 20px; background: transparent;">
+  <div style="display: flex; align-items: flex-start; gap: 10px; background: transparent;">
+    <img
+      src="https://nirzak-streak-stats.vercel.app/?user=Sumit6258&theme=radical&hide_border=true"
+      alt="GitHub Streak Stats"
+      width="490"
+      style="display: block; border: 0; background: transparent;"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Sumit6258/Sumit6258/main/penguin.jpeg"
+      alt="Coding Penguin"
+      width="190"
+      style="display: block; border-radius: 16px; background: transparent;"
+    />
+  </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit6258&show_icons=true&locale=en&layout=compact" alt="sumit6258" /></p>
+<!-- =================== Tech Stack =================== -->
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit6258&show_icons=true&locale=en" alt="sumit6258" /></p>
+### `< Tech Stack />`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit6258&" alt="sumit6258" /></p>
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 
+</div>
 
-<p align="center">
-  <a href="https://github.com/Sumit6258" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
- </a>
-</p>  
-  
-  
+<br/>
+
+<!-- =================== Activity Graph =================== -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit6258&theme=radical&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<!-- =================== Footer Code Quote =================== -->
+<div align="center">
+
+```js
+while (!succeed) { tryAgain(); }
+// — Sumit's development philosophy
+```
+
+</div>
+
+<!-- =================== Footer Wave =================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06b6d4,50:a855f7,100:6e40c9&section=footer" width="100%" alt="footer wave" />
