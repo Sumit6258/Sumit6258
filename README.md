@@ -10,7 +10,7 @@
 
 <!-- =================== Badges =================== -->
 <div align="center">
-  <a href="https://sumitsuman.website/" target="_blank">
+  <a href="https://www.sumitsuman.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%239bfef7?style=for-the-badge" alt="Portfolio" />
   </a>
   &nbsp;
