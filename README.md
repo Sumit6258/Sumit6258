@@ -14,6 +14,10 @@
     <img src="https://img.shields.io/badge/Portfolio-%239bfef7?style=for-the-badge" alt="Portfolio" />
   </a>
   &nbsp;
+  <a href="mailto:me@sumitsuman.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/thesumitsuman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%239bfef7?style=for-the-badge&logo=linkedin&logoColor=gray" alt="LinkedIn" />
   </a>
