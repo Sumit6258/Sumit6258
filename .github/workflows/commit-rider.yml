@@ -18,7 +18,7 @@ jobs:
       - name: Generate and publish Commit Rider
         uses: Sumit6258/commit-rider@v1
         with:
-          username: ${Sumit6258}
+          username: ${{ github.repository_owner }}
           output: dist/commit-rider.gif
           theme: midnight
           bike: bmx
