@@ -20,7 +20,7 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           output: dist/commit-rider.gif
-          theme: midnight
+          theme: forest
           bike: bmx
           width: 1200
           height: 360
