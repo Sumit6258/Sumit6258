@@ -1,0 +1,29 @@
+name: Generate Commit Rider
+
+on:
+  workflow_dispatch:          # lets you run it by hand from the Actions tab
+  schedule:
+    - cron: "15 0 * * *"      # and every day at 00:15 UTC
+
+permissions:
+  contents: write             # needed to push the GIF to the "output" branch
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository (provides the credentials used for publishing)
+        uses: actions/checkout@v6
+
+      - name: Generate and publish Commit Rider
+        uses: Sumit6258/commit-rider@v1
+        with:
+          username: ${Sumit6258}
+          output: dist/commit-rider.gif
+          theme: midnight
+          bike: bmx
+          width: 1200
+          height: 360
+          fps: 18
+          duration: 8
+          publish-branch: output
