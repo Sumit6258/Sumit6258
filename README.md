@@ -110,5 +110,9 @@ while (!succeed) { tryAgain(); }
 
 </div>
 
+## 🚴 My GitHub Commit Rider
+
+![Commit Rider](https://raw.githubusercontent.com/Sumit6258/Sumit6258/output/commit-rider.gif)
+
 <!-- =================== Footer Wave =================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06b6d4,50:a855f7,100:6e40c9&section=footer" width="100%" alt="footer wave" />
